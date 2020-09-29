@@ -1,3 +1,9 @@
+/*
+*Space Invaders for ESAT 2020/2021
+*Author: Pablo Martin Gonzalez
+*
+*/
+
 #include <esat/window.h>
 #include <esat/draw.h>
 #include <esat/input.h>
@@ -160,6 +166,7 @@ int esat::main(int argc, char **argv){
     }else{
       esat::DrawSetStrokeColor(255,255,255);
       esat::DrawSetFillColor(255,255,255);
+      esat::DrawSetTextSize(20);
       esat::DrawText(400, 300, "You lose.");
       esat::DrawText(400, 400, "Try again? Press SPACE");
       esat::DrawText(400, 400, "Press ESC for exit");

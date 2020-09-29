@@ -1,3 +1,8 @@
+/*
+*Class PlayerCanon for SpaceInvaders
+*Author: Pablo Martín Gonzalez
+*/
+
 #ifndef PLAYER_CANON_HPP
 #define PLAYER_CANON_HPP 1
 

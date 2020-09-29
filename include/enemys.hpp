@@ -1,3 +1,8 @@
+/*
+*Class Enemy for SpaceInvaders
+*Author: Pablo Martín Gonzalez
+*/
+
 #ifndef ENEMYS_HPP
 #define ENEMYS_HPP 1
 

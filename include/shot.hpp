@@ -1,3 +1,8 @@
+/*
+*Class Shot for SpaceInvaders
+*Author: Pablo Martín Gonzalez
+*/
+
 #ifndef SHOT_HPP
 #define SHOT_HPP 1
 
